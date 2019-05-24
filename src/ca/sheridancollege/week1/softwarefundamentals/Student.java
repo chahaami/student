@@ -17,9 +17,9 @@ public class Student {
     private String email;
 
     public String getEmail() {
-        return email;
+        return email;//Changed
     }
-    System.out.println("Change2gfgf");
+    
 
     public void setEmail(String email) {
         this.email = email;
